@@ -20,6 +20,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=coderpoop)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arjuncodess)
 
 My Portfolio - [arjundev-portfolio.vercel.app](https://arjundev-portfolio.vercel.app/)
