@@ -7,18 +7,22 @@
 
 ### 🛠 &nbsp; My Current Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwind)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)
+![React](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react)
+![Next](https://img.shields.io/badge/next-grey?style=for-the-badge&logo=next.js)
+![Express](https://img.shields.io/badge/express-grey?style=for-the-badge&logo=express)
+![Bootstrap](https://img.shields.io/badge/bootstrap-grey?style=for-the-badge&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/tailwind-grey?style=for-the-badge&logo=tailwindcss)
+![Git](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github)
+![Markdown](https://img.shields.io/badge/markdown-grey?style=for-the-badge&logo=markdown)
+![VS Code](https://img.shields.io/badge/visual%20studio%20code-grey?style=for-the-badge&logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/figma-grey?style=for-the-badge&logo=figma)
+![Firebase](https://img.shields.io/badge/firebase-grey?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/mongo%20db-grey?style=for-the-badge&logo=mongodb)
+![NPM](https://img.shields.io/badge/npm-grey?style=for-the-badge&logo=npm)
+![Postman](https://img.shields.io/badge/postman-grey?style=for-the-badge&logo=postman)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arjuncodess)
 
