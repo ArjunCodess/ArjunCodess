@@ -29,6 +29,9 @@
 ![NPM](https://img.shields.io/badge/npm-grey?style=for-the-badge&logo=npm)
 ![Postman](https://img.shields.io/badge/postman-grey?style=for-the-badge&logo=postman)
 
+### ✍️ Latest Medium Blog
+[![ArjunWritess Medium](https://github-readme-medium.vercel.app/?username=arjunwritess)](https://medium.com/@arjunwritess)
+
 ### 🎧 Spotify Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317m5xchonv6y2hkzcxtuxfbb2ae&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=317m5xchonv6y2hkzcxtuxfbb2ae&redirect=true)
 
