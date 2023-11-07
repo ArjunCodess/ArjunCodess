@@ -5,7 +5,10 @@
 ### 💡 Quick Introduction
 - 👀 I’m interested in Full Stack Web Development, Games, Books, Movies, Math and Science
 - 🌱 I’m currently learning Advanced Python and NextJs
-- 😎 Fun Fact - I am a 13 yo Kid
+- 😎 Fun Fact - I am a 14 yo Kid
+
+### 🎂 Birthday
+🎉 Wish me on 4th November!
 
 ### 😁 Connect With Me
 [![Linktree](https://img.shields.io/badge/linktree-0077B5?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ArjunCodess)
