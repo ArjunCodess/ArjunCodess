@@ -1,48 +1,117 @@
-## 👋 Hi, I’m Arjun Vijay Prakash
+<h1 align="left">👋 Hi, I’m Arjun Vijay Prakash</h1>
 
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
+###
 
-### 💡 Quick Introduction
-- 👀 I’m interested in Full Stack Web Development, Games, Books, Movies, Math and Science
-- 🌱 I’m currently learning Advanced Python and NextJs
-- 😎 Fun Fact - I am a 14 yo Kid
+<h3 align="left">💡 Quick Introduction</h3>
 
-### 🎂 Birthday
-🎉 Wish me on 4th November!
+###
 
-### 😁 Connect With Me
-[![Linktree](https://img.shields.io/badge/linktree-0077B5?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ArjunCodess)
+<p align="left">👀 I’m interested in Full Stack Web Development, Games, Books, Movies, Math and Science<br>🌱 I’m currently learning Advanced Python and NextJs<br>😎 Fun Fact - I am a 14 yo Kid</p>
 
-### 🛠 &nbsp; My Current Tech Stack
+###
 
-![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)
-![React](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react)
-![Next](https://img.shields.io/badge/next-grey?style=for-the-badge&logo=next.js)
-![Express](https://img.shields.io/badge/express-grey?style=for-the-badge&logo=express)
-![Bootstrap](https://img.shields.io/badge/bootstrap-grey?style=for-the-badge&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/tailwind-grey?style=for-the-badge&logo=tailwindcss)
-![Git](https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git)
-![Github](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github)
-![Markdown](https://img.shields.io/badge/markdown-grey?style=for-the-badge&logo=markdown)
-![VS Code](https://img.shields.io/badge/visual%20studio%20code-grey?style=for-the-badge&logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/figma-grey?style=for-the-badge&logo=figma)
-![Firebase](https://img.shields.io/badge/firebase-grey?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/mongo%20db-grey?style=for-the-badge&logo=mongodb)
-![NPM](https://img.shields.io/badge/npm-grey?style=for-the-badge&logo=npm)
-![Postman](https://img.shields.io/badge/postman-grey?style=for-the-badge&logo=postman)
+<h3 align="left">🎂 Birthday</h3>
 
-### ✍️ Latest Medium Blog
-[![ArjunWritess Medium](https://github-readme-medium.vercel.app/?username=arjunwritess)](https://medium.com/@arjunwritess)
+###
 
-### 🎧 Spotify Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317m5xchonv6y2hkzcxtuxfbb2ae&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=317m5xchonv6y2hkzcxtuxfbb2ae&redirect=true)
+<p align="left">🎉 Wish me on 4th November!</p>
 
-### 💯 My Github Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arjuncodess)
+###
 
-### 👨‍💻 My Portfolio
-![image](https://github.com/ArjunCodess/ArjunCodess/assets/137415649/fd80b08c-80e4-47c5-a371-8f72b86634db)
-[Click Here](https://arjundev-portfolio.vercel.app/)
+<br clear="both">
 
-Old Github Id - [@CoderPOOP](https://github.com/coderpoop)
+<h4 align="center">Github Commits</h4>
+
+###
+
+<img src="https://raw.githubusercontent.com/ArjunCodess/ArjunCodess/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<h4 align="center">Socials</h4>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://linktr.ee/ArjunCodess" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/arjuncodess" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="80" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://instagram.com/ArjunCodess" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://dev.to/ArjunCodess" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="80" height="40" alt="devto logo"  />
+  </a>
+  <a href="https://linktr.ee/ArjunCodess" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="80" height="40" alt="linktree logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<h4 align="center">Tech Stack</h4>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h4 align="center">Profile Views</h4>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ArjunCodess/count.svg?"  />
+</div>
+
+###
+
+<p align="left">Old Github Id - @CoderPOOP</p>
+
+###
