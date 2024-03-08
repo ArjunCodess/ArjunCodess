@@ -18,9 +18,7 @@
 
 ###
 
-<br clear="both">
-
-<h4 align="center">Github Commits</h4>
+<h3 align="left">Github Commits</h3>
 
 ###
 
@@ -28,13 +26,9 @@
 
 ###
 
-<br clear="both">
-
-<h4 align="center">Socials</h4>
+<h3 align="left">Socials</h3>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://linktr.ee/ArjunCodess" target="_blank">
@@ -56,9 +50,7 @@
 
 ###
 
-<br clear="both">
-
-<h4 align="center">Tech Stack</h4>
+<h3 align="left">Tech Stack</h3>
 
 ###
 
@@ -100,9 +92,7 @@
 
 ###
 
-<br clear="both">
-
-<h4 align="center">Profile Views</h4>
+<h3 align="left">Profile Views</h3>
 
 ###
 
