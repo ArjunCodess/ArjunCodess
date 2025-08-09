@@ -1,115 +1,62 @@
-<h1 align="left">👋 Hi, I’m Arjun Vijay Prakash</h1>
+# 👋 Hi, I'm Arjun Vijay Prakash
 
-###
+**15-year-old full-stack developer and writer** · shipped **20+ projects** · **33k+** blog followers · **390k+** blog reads
 
-<h3 align="left">💡 Quick Introduction</h3>
+I make, break, and rebuild — until it works. Ship fast. Write feelings and lessons. Make cool things with care for design.
 
-###
+---
 
-<p align="left">👀 I’m interested in Full Stack Web Development, Games, Books, Movies, Math and Science<br>🌱 I’m currently learning Advanced Python and NextJs<br>😎 Fun Fact - I am a 14 yo Kid</p>
+## 💡 What I do
+- Full-stack web apps, data projects, and small games.  
+- I like clean code, tight UX, and projects that teach me new math or systems.  
+- Currently learning: **Advanced Python · Next.js · System Design · Data Structures and Algorithms**.
 
-###
+---
 
-<h3 align="left">🎂 Birthday</h3>
+## 🌐 Connect with me
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/arjuncodess)
+[![X](https://img.shields.io/badge/x-000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arjuncodess)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arjuncodess)
+[![Peerlist](https://img.shields.io/badge/Peerlist-00aa45?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/arjuncodess)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/829937591926128651)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/arjuncodess)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjuncodess)
+[![arjunv.prakash12345@gmail.com](https://custom-icon-badges.demolab.com/badge/-arjunv.prakash12345@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunv.prakash12345@gmail.com)
 
-###
+---
 
-<p align="left">🎉 Wish me on 4th November!</p>
+## 🔭 Featured projects
 
-###
+* **[AstroScope](https://github.com/ArjunCodess/astroscope)** — Tracks and visualizes NASA’s near-Earth asteroid data with Streamlit. See space threats in real time.
 
-<h3 align="left">Github Commits</h3>
+* **[Structura.AI](https://github.com/ArjunCodess/structura)** — Turns messy text into clean, structured JSON in under 3 seconds, powered by Gemini AI.
 
-###
+* **[WebCrawlAI](https://github.com/ArjunCodess/WebCrawlAI)** —AI-driven web scraper that handles dynamic content and CAPTCHAs. 100+ stars.
 
-<img src="https://raw.githubusercontent.com/ArjunCodess/ArjunCodess/output/snake.svg" alt="Snake animation" />
+* **[Analyzr](https://github.com/ArjunCodess/analyzr)** — Instant analytics platform for your apps. Next.js + Supabase.
 
-###
+* **[Storyblok MCP Server](https://github.com/ArjunCodess/storyblok-mcp)** — Control Storyblok CMS with plain language commands.
 
-<h3 align="left">Socials</h3>
+* **[TypeTheLyrics](https://github.com/ArjunCodess/typethelyrics)** — Type along to synced Spotify lyrics while improving your typing speed.
 
-###
+* **[ChemistryCheck](https://github.com/ArjunCodess/chemistrycheck)** — Decode your chats and spot early signs to understand relationships.
 
-<div align="center">
-  <a href="https://linktr.ee/ArjunCodess" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/arjuncodess" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="80" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://instagram.com/ArjunCodess" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://dev.to/ArjunCodess" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="80" height="40" alt="devto logo"  />
-  </a>
-  <a href="https://linktr.ee/ArjunCodess" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="80" height="40" alt="linktree logo"  />
-  </a>
-</div>
+---
 
-###
+## 📈 GitHub activity
+<img src="https://raw.githubusercontent.com/ArjunCodess/ArjunCodess/output/snake.svg" alt="commit graph" />
 
-<h3 align="left">Tech Stack</h3>
+---
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<h3 align="left">GitRoll Profile</h3>
-
-###
-
+## 🏆 GitRoll Profile
 <a href="https://gitroll.io/profile/u1MGkEMwuplfiCJBjvUI1NfXyGrV2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u1MGkEMwuplfiCJBjvUI1NfXyGrV2" alt="GitRoll Profile Badge"/></a>
 
-###
+---
 
-<h3 align="left">Profile Views</h3>
+## 🤝 Want to work together?
+I'm open to collabs, small freelance work, and guest writing.  
+DM on **X (ArjunCodess)** or email: `arjunv.prakash12345@gmail.com`
 
-###
+---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ArjunCodess/count.svg?"  />
-</div>
-
-###
-
-<p align="left">Old Github Id - @CoderPOOP</p>
-
-###
+<sub>Legacy handle: [@CoderPOOP](https://github.com/CoderPOOP) — kept for laughs.</sub>
