@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arjun Vijay Prakash
 
-**15-year-old full-stack developer and writer** · shipped **20+ projects** · **33k+** blog followers · **390k+** blog reads
+**16-year-old full-stack developer and writer** · shipped **20+ projects** · **34k+** blog followers · **400k+** blog reads
 
 I make, break, and rebuild — until it works. Ship fast. Write feelings and lessons. Make cool things with care for design.
 
